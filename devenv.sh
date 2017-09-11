@@ -1,5 +1,5 @@
-source ~/use_ros.sh
-source ~/use_miniconda2.sh
+source ~/repo/scripts/use_ros.sh
+source ~/repo/scripts/use_miniconda2.sh
 if [ "$1" = "capstone" ]
 then
     source ~/repo/CarND-Capstone/ros/devel/setup.sh
